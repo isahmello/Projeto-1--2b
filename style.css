@@ -20,6 +20,16 @@
     height: 120px;
     background-color: rgb(255, 255, 255);
 
+.retangulo{
+    width: 128px;
+    height: 9px;
+    background-color: rgb(255, 255, 255);
+    
+.retangulo{
+    width: 128px;
+    height: 9px;
+    background-color: rgb(255, 255, 255);
+        
 .segunda_secao{
     width: 360px;
     height: 256px;
@@ -30,13 +40,23 @@
     height: 165px;
     background-color: rgb(255, 255, 255);
 
-    .terceira_secao{
-        width: 360px;
-        height: 266px;
-        background-color: rgb(241, 175, 241);
+.retangulo{
+    width: 327px;
+    height: 253px;
+    background-color: rgb(255, 255, 255);
+    
+.terceira_secao{
+    width: 360px;
+    height: 266px;
+    background-color: rgb(241, 175, 241);
 
-    .retangulo{
-        width: 291px;
-        height: 165px;
-        background-color: rgb(241, 175, 241);
+.retangulo{
+    width: 291px;
+    height: 165px;
+    background-color: rgb(241, 175, 241);
                 
+.retangulo{
+    width: 327px;
+    height: 253px;
+    background-color: rgb(255, 255, 255);
+        
