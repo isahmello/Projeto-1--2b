@@ -1,7 +1,7 @@
 .cabecalho{
     width: 360px;
     height: 91px;
-    background-color: rgb(243, 217, 243);
+    background-color: #f3d9f3;
 
     .circulo_imagem{
         width: 90px;
@@ -12,7 +12,7 @@
 .primeira_secao{
     width: 360px;
     height: 141px;
-    background-color: rgb(255, 221, 227);
+    background-color: #ffdde3;
 
 }
 .retangulo_imagem{
@@ -33,7 +33,7 @@
 .segunda_secao{
     width: 360px;
     height: 256px;
-    background-color: rgb(241, 175, 241);
+    background-color: #f3d9f3;
     
 .retangulo_imagem{
     width: 291px;
@@ -43,20 +43,27 @@
 .quadrado{
     width: 327px;
     height: 253px;
-    background-color: rgb(255, 255, 255);
+    background-color: #fcb8ed;
     
 .terceira_secao{
     width: 360px;
     height: 266px;
-    background-color: rgb(241, 175, 241);
+    background-color: #ffdde3;
 
 .retangulo_imagem{
     width: 291px;
     height: 165px;
-    background-color: rgb(241, 175, 241);
+    background-color: rgb(255, 255, 255);
                 
 .quadrado{
     width: 327px;
     height: 253px;
-    background-color: rgb(255, 255, 255);
+    background-color: #fcb8ed;
+
+.rodape{
+    width: 360px;
+    height: 47px;
+    background-color: #f3d9f3;
+    
+
         
